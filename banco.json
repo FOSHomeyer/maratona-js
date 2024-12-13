@@ -1,0 +1,16 @@
+{
+  "produto": [
+    {
+      "id": "4c17",
+      "nome": "smartphone samsung",
+      "quantidade": 20
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "rodrigo",
+      "email": "rodrigo@gmail.com"
+    }
+  ]
+}
