@@ -36,10 +36,16 @@ npx json-server banco.json
 * delete deletar
 * post inserir
 
-#### passo a passo git
+#### passo a passo repo git
 
 git init
 
 git add .
 
 copia e colar url do git
+
+#### atualizar o git repo
+
+* git add .
+* git commit -m "criar algumas formções para revisar javacript"
+* git push
