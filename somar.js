@@ -16,11 +16,10 @@ function somar3(a=0, b=0){
 }
 
 function somar4(a=0, b=0){
-    if(a <= 0 && b <=0){
+    if( a <= 0 && b <=0 ){
         console.log('digite um valor acima de zero')
         return
     }
-    
     console.log(a+b)
 }
 
